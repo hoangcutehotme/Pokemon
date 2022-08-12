@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PokemonStatsViewController.scrollViewDidScroll(_:):PokemonStatsViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " parentVC.topViewHeightConstraintRange?.upperBound">
+            </PersistentString>
+            <PersistentString
+               value = "parent">
+            </PersistentString>
+            <PersistentString
+               value = "parent?.parent">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CustomSegmentControl.layoutSubviews():CustomSegmentControl.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "numberOfSegments">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
